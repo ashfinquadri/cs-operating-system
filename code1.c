@@ -1,4 +1,4 @@
 int main (){
-    printf("Hello World");
+    printf("Lab setup succesfull\\n");
     return 0;
 }
